@@ -1,12 +1,12 @@
-<!-- <?php 
+<?php 
 
-$con=mysqli_connect("localhost","root","","online_movie_booking_system");
+// $con=mysqli_connect("localhost","root","root","online_movie_booking_system");
 
-if(!$con){
+// if(!$con){
 
-      echo "Database Connection Failed";
+//       echo "Database Connection Failed";
 
-};
+// };
 
 
-?> -->
+?>
